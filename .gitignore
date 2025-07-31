@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Local database folder created by ChromaDB
+chroma_db/
+
+# Environment variables file
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store

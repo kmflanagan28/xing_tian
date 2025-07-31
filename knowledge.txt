@@ -1,0 +1,9 @@
+Project Starlight: Mission Briefing - July 30, 2025
+
+Project Starlight is a multi-phase initiative to establish a permanent research outpost on the lunar south pole. The primary objective is to study water ice deposits and test new long-duration habitat technologies.
+
+Phase 1, codenamed "Pathfinder," involves deploying three robotic rovers to survey the Shackleton crater rim. Rover-1 will handle geological analysis, Rover-2 is equipped with ground-penetrating radar, and Rover-3 is a transport vehicle. The launch provider for Phase 1 is set to be Starship.
+
+Phase 2, "Foundation," will see the construction of the primary habitat module. This phase is dependent on the successful identification of a stable building site and sufficient water ice by the Pathfinder rovers. Dr. Aris Thorne is the lead scientist for the habitat design, which emphasizes radiation shielding using locally sourced regolith.
+
+The project timeline is aggressive. Phase 1 launch is scheduled for Q1 2026. All team members must remember that the budget is fixed, and no overruns are permitted. The designated communication channel for all urgent matters is the internal Matrix server, channel #starlight-ops.
